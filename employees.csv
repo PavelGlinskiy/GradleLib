@@ -1,0 +1,5 @@
+Employee ID;Full Name;Email;Department;Position;Salary;Hire Date;Skills1;Skills2;Skills3;Projects1;Projects2;Is Active
+"1";"Berna Koss";"art.brown@gmail.com";"HR";"Manager";"11286.83";"2025-05-15";"Python";"Redis";"React";"Leannon, Shields and Gusikowski Project";"Grant-Gutkowski Initiative";"Yes"
+"2";"Arnulfo Corkery";"nicholas.harvey@hotmail.com";"Finance";"Analyst";"12881.85";"2023-05-12";"JavaScript";"MySQL";"React";"Collier Inc Project";"Johnson, Lowe and McKenzie Initiative";"Yes"
+"3";"Leanora Huel";"jovita.fritsch@gmail.com";"Finance";"Consultant";"9698.81";"2025-05-28";"SQL";"MongoDB";"Spring";"Rodriguez, Murray and Ullrich Project";"Pouros-Ernser Initiative";"No"
+"4";"Luba Jacobi";"jerrod.fadel@hotmail.com";"Marketing";"Analyst";"7183.13";"2024-10-14";"Kubernetes";"Elasticsearch";"JavaScript";"Cartwright LLC Project";"Bartoletti and Sons Initiative";"Yes"
