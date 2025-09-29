@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# IDEA
+.idea/
+*.iml
+
+# Sonar
+.scannerwork/
